@@ -98,7 +98,7 @@ sudo minicom -D /dev/ttyACM0 -b 2000000
 
 3. Presionar los dos botones de reset de la tarjeta al tiempo. En la terminal se visualizara la salida de depuración. En esta se muestra el Device EUI como se muestra en la siguiente imagen.
 
-![minicom](./Imagenes/minicom.png)
+![minicom](./img/minicom.png)
 
 # Conexión a The Things Network (TTN)
 
@@ -108,15 +108,15 @@ sudo minicom -D /dev/ttyACM0 -b 2000000
 
 3. Ir a la pestaña de *End devices* y crear un nuevo dispositivo en *add end device*, como se muestra en la siguiente imagen.
 
-![registro 3](./Imagenes/Registro_3.png)
+![registro 3](./img/Registro_3.png)
 
 4. Registrar manualmente el dispositivo como se muestra en la siguiente imagen.
 
-![registro 1](./Imagenes/Registro_1.png)
+![registro 1](./img/Registro_1.png)
 
 5. Ingresar los datos de Device EUI, Join EUI y Device Key como se muestra en la siguiente imagen. Estos datos fueron dados en la sección anterior, recordar que el Device EUI es único de la tarjeta y se obtuvo en el paso 3 de la sección de Personalizaron. Por ultimo, presionar el botón de *Register end device*.
 
-![registro 2](./Imagenes/Registro_2.png)
+![registro 2](./img/Registro_2.png)
 
 Una vez terminados estos pasos, ya se podrán visualizar los datos enviados por la tarjeta a TTN desde la pestaña *Live data* de la aplicación creada, siempre y cuando se tenga cobertura de un Gateway conectado a la red de TTN.
 
