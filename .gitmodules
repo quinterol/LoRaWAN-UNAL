@@ -1,0 +1,3 @@
+[submodule "basicmac"]
+	path = basicmac
+	url = https://github.com/mkuyper/basicmac.git
