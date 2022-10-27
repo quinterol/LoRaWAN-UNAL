@@ -1,4 +1,5 @@
-# Construcción y carga del proyecto
+Construcción y carga del proyecto
+=======================
 
 1. Clonar el repositorio de GitHub de Basicmac y todos sus submódulos.
 

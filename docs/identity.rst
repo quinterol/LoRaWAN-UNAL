@@ -1,4 +1,5 @@
-# Personalización
+Personalización
+=======================
 
 El HAL para STM32 almacena información de personalización como EUI y claves para el funcionamiento de LoRaWAN en EEPROM. Si no se encuentra información de personalización válida en la EEPROM, la HAL creará un dispositivo EUI a partir de los registros de ID únicos de la MCU's y utilizará una clave de prueba y un EUI de unión fijos [[1]](https://basicmac.io/guide/gettingstarted.html):
 
