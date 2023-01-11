@@ -8,4 +8,4 @@ version: 2
 submodules:
   exclude: all
 formats:
-  - pdf
+  - all
