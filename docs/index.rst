@@ -19,7 +19,7 @@ Esta guía tiene por finalidad conectar la tarjeta de desarrollo a un servidor d
 
 Subsection
 ^^^^^^^^^^
-Usando esta sección de prueba de citation reference, [CIT2002]_
+Usando esta sección de prueba para una cita de referencia de prueba [CIT2002]_
 
 subsubsection
 """""""""""""
@@ -30,7 +30,7 @@ Prueba de texto Overline por parts (Titulo 4)
 Overline para Capítulos (Titulo 5)
 ***********************
 
-.. [CIT2002] A citation.
+.. [CIT2002] Citacion de prueba, tambien imagino que puede ir un `link <https://google.com>`_ o algo .
 
 .. toctree::
    :maxdepth: 1
