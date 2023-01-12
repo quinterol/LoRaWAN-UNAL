@@ -7,20 +7,19 @@
 =============
 UNAL-LoRaWAN
 ------------
-Esta documentación tiene como finalidad explicar el manejo de `Basic MAC <https://basicmac.io>`_ de manera detallada, haciendo uso de la tarjeta de desarrollo `B-L072Z-LRWAN1 LoRa®/Sigfox™ Discovery Kit <https://www.st.com/en/evaluation-tools/b-l072z-lrwan1.html>`_.
+Esta documentación tiene como finalidad explicar el manejo de `Basic MAC <https://basicmac.io>`_, haciendo uso de la tarjeta de desarrollo `B-L072Z-LRWAN1 LoRa®/Sigfox™ Discovery Kit <https://www.st.com/en/evaluation-tools/b-l072z-lrwan1.html>`_.
 
 
-Descripción
+Basic MAC
 -----------
-Basic MAC es una implementación portátil de la especificación LoRaWAN® de LoRa Alliance® en el lenguaje de programación C. Es una bifurcación de la biblioteca LMiC de IBM. Es una bifurcación de la biblioteca LMiC de IBM y admite varias regiones, que se pueden seleccionar en tiempo de compilación y/o ejecución. Puede manejar dispositivos de Clase A, Clase B y Clase C. 
-
-`Basic MAC <https://basicmac.io>`_ es una implementación portátil de la especificación LoRaWAN® de `LoRa Alliance® <https://lora-alliance.org>`_ en el lenguaje de programación C. Es una bifurcación de la biblioteca LMiC de IBM y admite múltiples regiones, que se pueden seleccionar en tiempo de compilación y/o ejecución. Para la utilización de Basic MAC se usará una terminal Linux, los comandos presentados a continuación funcionan para el sistema operativo Ubuntu 20.04, podrían variar si se trabaja desde otra distribución de Linux.
+`Basic MAC <https://basicmac.io>`_ es una implementación portátil de la especificación LoRaWAN® de `LoRa Alliance® <https://lora-alliance.org>`_ en el lenguaje de programación C. Es una bifurcación de la biblioteca LMiC de IBM y admite múltiples regiones, que se pueden seleccionar en tiempo de compilación y/o ejecución.
 
 Esta guía tiene por finalidad conectar la tarjeta de desarrollo a un servidor de The Things Network, creando una aplicación y usando la frecuencia us 915 Khz.
 
 
 Subsection
 ^^^^^^^^^^
+Usando esta sección de prueba de citation reference, [CIT2002]_
 
 subsubsection
 """""""""""""
@@ -30,6 +29,8 @@ Prueba de texto Overline por parts (Titulo 4)
 
 Overline para Capítulos (Titulo 5)
 ***********************
+
+.. [CIT2002] A citation.
 
 .. toctree::
    :maxdepth: 1
