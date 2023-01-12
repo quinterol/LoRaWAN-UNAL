@@ -23,17 +23,17 @@ Subsection
 ^^^^^^^^^^
 
 subsubsection
-"""""""
+"""""""""""""
 
 Prueba de texto Overline por parts (Titulo 4)
 ##################################
 
-Overline para Capitulos (Titulo 5)
+Overline para Capítulos (Titulo 5)
 ***********************
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
+   :caption: Contenido:
 
    install
    project
