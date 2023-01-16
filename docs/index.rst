@@ -12,25 +12,16 @@ Esta documentación tiene como finalidad explicar el manejo de `Basic MAC <https
 
 Basic MAC
 -----------
-`Basic MAC <https://basicmac.io>`_ es una implementación portátil de la especificación LoRaWAN® de `LoRa Alliance® <https://lora-alliance.org>`_ en el lenguaje de programación C. Es una bifurcación de la biblioteca LMiC de IBM y admite múltiples regiones, que se pueden seleccionar en tiempo de compilación y/o ejecución.
+`Basic MAC <https://basicmac.io>`_ es una implementación portátil de la especificación LoRaWAN® de `LoRa Alliance® <https://lora-alliance.org>`_ en el lenguaje de programación C. Es una bifurcación de la biblioteca LMiC de IBM y admite múltiples regiones, que se pueden seleccionar en tiempo de compilación y/o ejecución. Puede manejar dispositivos de Clase A, Clase B y Clase C. [#]_
 
-Esta guía tiene por finalidad conectar la tarjeta de desarrollo a un servidor de The Things Network, creando una aplicación y usando la frecuencia us 915 Khz.
-
-
-Subsection
+STM32L0 Discovery kit LoRa, Sigfox, low-power wireless
+------------------------------------------------------
+B-L072Z-LRWAN1
 ^^^^^^^^^^
-Usando esta sección de prueba para una cita de referencia de prueba [CIT2002]_
+El kit de descubrimiento LoRa®/Sigfox™ B-L072Z-LRWAN1 es una herramienta de desarrollo para aprender y desarrollar soluciones basadas en las tecnologías LoRa®, Sigfox™ y FSK/OOK. El kit B-L072Z-LRWAN1 Discovery incluye una interfaz de herramienta de depuración embebida ST-LINK/V2-1, LEDs, pulsadores, antena, conectores Arduino™ Uno V3 y conector USB OTG en formato Micro-B. [#]_
 
-subsubsection
-"""""""""""""
-
-Prueba de texto Overline por parts (Titulo 4)
-##################################
-
-Overline para Capítulos (Titulo 5)
-***********************
-
-.. [CIT2002] Citacion de prueba, tambien imagino que puede ir un `link <https://google.com>`_ o algo .
+.. [#] Una traducción de `Basic MAC getting started guide <https://basicmac.io/guide/gettingstarted.html>`_. 
+.. [#] Una traducción de `Product overview B-L072Z-LRWAN1 <https://www.st.com/en/evaluation-tools/b-l072z-lrwan1.html>`
 
 .. toctree::
    :maxdepth: 1
