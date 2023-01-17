@@ -21,7 +21,7 @@ B-L072Z-LRWAN1
 El kit de descubrimiento LoRa®/Sigfox™ B-L072Z-LRWAN1 es una herramienta de desarrollo para aprender y desarrollar soluciones basadas en las tecnologías LoRa®, Sigfox™ y FSK/OOK. El kit B-L072Z-LRWAN1 Discovery incluye una interfaz de herramienta de depuración embebida ST-LINK/V2-1, LEDs, pulsadores, antena, conectores Arduino™ Uno V3 y conector USB OTG en formato Micro-B. [#]_
 
 .. [#] Una traducción de `Basic MAC getting started guide <https://basicmac.io/guide/gettingstarted.html>`_. 
-.. [#] Una traducción de `Product overview B-L072Z-LRWAN1 <https://www.st.com/en/evaluation-tools/b-l072z-lrwan1.html>`
+.. [#] Una traducción de `Product overview B-L072Z-LRWAN1 <https://www.st.com/en/evaluation-tools/b-l072z-lrwan1.html>`_.
 
 .. toctree::
    :maxdepth: 1
