@@ -1,13 +1,11 @@
 Construcción y carga del proyecto
 =======================
 
-1. Clonar el repositorio de GitHub de Basicmac y todos sus submódulos.
+#. Clonar el repositorio de GitHub de Basicmac y todos sus submódulos.::
 
-```bash
-git clone --recurse-submodules https://github.com/mkuyper/basicmac.git basicmac
-```
-
-2. Crear y activar un entorno virtual con Python dentro de la carpeta basicmac.
+    git clone --recurse-submodules https://github.com/mkuyper/basicmac.git basicmac
+ 
+#. Crear y activar un entorno virtual con Python dentro de la carpeta basicmac.
 
 Para mejorar la gestion de las versiones de python la idea seria utilizar pyenv para cargar la version necesaria de python, pues los paquetes requeridos solo funcionan en python 3.8.*
  Pasos:
